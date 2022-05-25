@@ -15,13 +15,13 @@
 
     <name>Dependency Tools</name>
     <description>Tools for building a classpath</description>
-    <url></url>
+    <url>https://github.com/bowbahdoe/java-dependency-tools</url>
 
     <dependencies>
         <dependency>
             <groupId>org.clojure</groupId>
             <artifactId>tools.deps.alpha</artifactId>
-            <version>0.14.1173</version>
+            <version>0.14.1178</version>
         </dependency>
         <dependency>
             <groupId>org.clojure</groupId>
@@ -47,9 +47,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git://github.com/bowbahdoe/magic-bean.git</connection>
-        <developerConnection>scm:git:ssh://github.com:bowbahdoe/magic-bean.git</developerConnection>
-        <url>http://github.com/bowbahdoe/magic-bean/tree/master</url>
+        <connection>scm:git:git://github.com/bowbahdoe/java-dependency-tools.git</connection>
+        <developerConnection>scm:git:ssh://github.com:bowbahdoe/java-dependency-tools.git</developerConnection>
+        <url>http://github.com/bowbahdoe/java-dependency-tools/tree/main</url>
     </scm>
 
     <distributionManagement>
